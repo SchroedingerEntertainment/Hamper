@@ -1,3 +1,9 @@
+![Human Made](https://img.shields.io/badge/content-human--made-brightgreen?logo=github) 
+
+*All files in this repository are created by humans. AI tools may be used for research, but no AI-generated content is included*
+
+---
+
 Modern games are no longer applications.
 They are ecosystems.
 
